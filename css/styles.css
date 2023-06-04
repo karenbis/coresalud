@@ -14630,7 +14630,7 @@ body {
 .bg-pattern-doubs {
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("../assets/img/patterns/doubs.svg");
+  background-image: url("../assets/img/patterns/fondo.png");
   background-position: center;
 }
 
@@ -23736,4 +23736,9 @@ pre[class*=language-] {
   clear: both;
   content: " ";
   display: table;
+}
+
+  
+.margin-32 {
+   margin-bottom: 32px;
 }
